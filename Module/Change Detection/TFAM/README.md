@@ -21,4 +21,4 @@ if __name__=="__main__":
 # Reference  
 ***
 [https://blog.csdn.net/qq_51511878/article/details/138000632](https://blog.csdn.net/qq_51511878/article/details/138000632)  
-Zhao S, Zhang X, Xiao P, et al. [Exchanging dual-encoder–decoder: A new strategy for change detection with semantic guidance and spatial localization[J]. IEEE Transactions on Geoscience and Remote Sensing](./paper/A%20New%20Strategy%20for%20Change%20Detection%20with%20Semantic%20Guidance%20and%20Spatial%20Localization.pdf), 2023, 61: 1-16.
+Zhao S, Zhang X, Xiao P, et al. [Exchanging dual-encoder–decoder: A new strategy for change detection with semantic guidance and spatial localization](./paper/A%20New%20Strategy%20for%20Change%20Detection%20with%20Semantic%20Guidance%20and%20Spatial%20Localization.pdf)[J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 1-16.
