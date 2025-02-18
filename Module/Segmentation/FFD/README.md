@@ -1,4 +1,6 @@
 # 题目: Frequency-aware Feature Fusion for Dense Image Prediction  
+## Type  
+多尺度特征融合
 ***
 # Overview  
 ***
