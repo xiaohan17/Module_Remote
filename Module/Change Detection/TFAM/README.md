@@ -1,4 +1,6 @@
 # 题目: Exchanging Dual Encoder-Decoder: A New Strategy for Change Detection with Semantic Guidance and Spatial Localization  
+## Type
+双时相特征融合
 ***
 # Overview  
 ***
